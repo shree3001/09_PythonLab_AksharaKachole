@@ -1,0 +1,6 @@
+Section A: Before You Start 
+1. What do you think makes one piece of code faster than another that produces the same output? Write your guess in one or two lines, before doing anything else here. 
+Ans:I think one code can be faster if it does less unnecessary work. A better method can solve the same problem in fewer steps.
+
+2. Name any Python function or technique you already know that helps avoid repeating work. If none, write "none yet" and come back to this at the end. 
+Ans:I know set in Python. It can help in checking whether a value is already present.
