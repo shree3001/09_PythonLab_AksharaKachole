@@ -1,0 +1,20 @@
+Section E: Reflection
+1. Common lesson
+Answer:
+
+The common lesson is that choosing a better algorithm or data structure can greatly reduce the amount of unnecessary work
+ and make a program much faster.
+
+2. Go back to Section A, Question 1. Would you change your answer?
+Answer:
+
+Yes. I would add that code becomes faster not only by doing fewer operations, but also by choosing a more efficient algorithm 
+and data structure.
+ Avoiding repeated work and using techniques such as hashing, sieving, sorting, and binary search can significantly improve performance.
+
+3. Which technique would you use again?
+Answer:
+
+I am most likely to use hash-based lookup again because it is simple to understand and very useful when I need to quickly 
+check whether a value has already been seen. A Python set or dictionary can often reduce a problem from a nested-loop solution 
+to a much faster single-pass solution.
