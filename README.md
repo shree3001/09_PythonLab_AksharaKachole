@@ -1,10 +1,15 @@
 # 09_PythonLab_AksharaKachole
+
 # Python Lab Assignments
+
 **Student Name:** Akshara kachole<br>
+
 **Roll Number:** IC-2K24-09
+
 ---
 ## About
 This repository contains Python lab assignments completed as part of the Python practical course.
+
 ---
 ## Lab 1  
 Contains basic Python programs covering variables, arithmetic operations, strings, and escape sequences.
