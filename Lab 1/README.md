@@ -6,7 +6,7 @@
 3. int(), float() 
 4. exponent, floor division 
 5. modulus, remainder 
-6. # 
+6.  \#  
 7. Variable cannot start with number
 
            Section B Answers
@@ -15,4 +15,4 @@
 3. True 
 4. float 
 5. yth 
-6. Hi    There
+6. Hi    There <br> Bye
